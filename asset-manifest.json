@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/://zentor88.github.io/react-expense-tracker/static/css/main.a02adfc6.css",
-    "main.js": "/://zentor88.github.io/react-expense-tracker/static/js/main.b9d0f0f3.js",
-    "index.html": "/://zentor88.github.io/react-expense-tracker/index.html",
-    "main.a02adfc6.css.map": "/://zentor88.github.io/react-expense-tracker/static/css/main.a02adfc6.css.map",
-    "main.b9d0f0f3.js.map": "/://zentor88.github.io/react-expense-tracker/static/js/main.b9d0f0f3.js.map"
+    "main.css": "/react-expense-tracker/static/css/main.a02adfc6.css",
+    "main.js": "/react-expense-tracker/static/js/main.b9d0f0f3.js",
+    "index.html": "/react-expense-tracker/index.html",
+    "main.a02adfc6.css.map": "/react-expense-tracker/static/css/main.a02adfc6.css.map",
+    "main.b9d0f0f3.js.map": "/react-expense-tracker/static/js/main.b9d0f0f3.js.map"
   },
   "entrypoints": [
     "static/css/main.a02adfc6.css",
